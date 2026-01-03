@@ -1,5 +1,3 @@
----
-
 ```markdown
 # 🚀 Multi-Tier AWS Infrastructure with Remote State Management
 ## 🌟 Project Overview
@@ -84,9 +82,3 @@ terraform apply -auto-approve
 * **Provider Constraints:** Handling AMI ID differences between regions (Virginia vs. Stockholm).
 * **Security:** Using `.gitignore` to protect sensitive cloud metadata.
 
----
-
-
-**Once you push this, go look at your GitHub profile on your phone or browser. It will look like a professional portfolio! Ready to start the Jenkins installation?**
-
-```
